@@ -12,8 +12,8 @@ Programming languages:
 * JavaScript (Medium: good theoretical knowledge, practical skills)
 * PHP (Medium: good theoretical knowledge, practical skills)
 ## AND:
-* HTML
-* CSS
+* HTML (Great: good theoretical knowledge, practical skills)
+* CSS (Great: good theoretical knowledge, practical skills)
 ## LANGUAGES:
 * English (B1)
 * Polish (B1)
