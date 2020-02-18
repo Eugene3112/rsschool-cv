@@ -19,7 +19,7 @@ header{
     width: 1024px;
     margin: 0 auto;
     text-align: center;
-    border-top: 0.5px solid #233332;
+    border-top: 0.1px solid #233332;
 }
 
 nav{
@@ -119,4 +119,18 @@ th{
     line-height: 1.5em;
     text-align: start;
     color: rgb(213, 255, 166);
+}
+pre{
+    text-align: start;
+}
+
+footer{
+    color: white;
+    height: 150px;
+    background-color: #4e4e4e;
+    padding: 1px;
+}
+footer p{
+    padding: 10px;
+    text-align: start;
 }
